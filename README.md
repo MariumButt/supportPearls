@@ -1,4 +1,4 @@
-LIVE DEMO 👉 https://support-pearlz-itrarwx3fpdixmkxgrhbqj.streamlit.app/
+LIVE DEMO 👉 https://supportpearls.streamlit.app/
 
 # SupportPearlz — Simple Single-File RAG Project
 
